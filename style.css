@@ -1,0 +1,38 @@
+body {
+    background-color: #25576b;
+}
+
+header, footer {
+    background-color: #5498B3;
+    color: whitesmoke;
+    text-align: center;
+    padding: 5px 5px;
+}
+
+li {
+    border: pink 10px;
+    background-color: #b4dbea;
+    color: black;
+    display: inline;
+    padding: 20px;
+    margin: 20px;
+}
+
+section {
+    background-color: #25576b;
+    color: white;
+    text-align: center;
+}
+
+section p {
+    text-align: left;
+    margin:
+}
+#section1 {
+    width: 80%;
+    height: 40%
+}
+
+#username {
+    color:darkblue
+}
